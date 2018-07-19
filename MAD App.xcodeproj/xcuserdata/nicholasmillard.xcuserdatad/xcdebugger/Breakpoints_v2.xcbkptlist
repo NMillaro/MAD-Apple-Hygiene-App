@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MAD App/ViewController.swift"
+            timestampString = "545956112.65368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAD_App.ViewController.__deallocating_deinit"
+                  moduleName = "MAD App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasmillard/Documents/MAD%20App/MAD%20App/ViewController.swift"
+                  timestampString = "545929498.366647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAD_App.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MAD_App.ViewController"
+                  moduleName = "MAD App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasmillard/Documents/MAD%20App/MAD%20App/ViewController.swift"
+                  timestampString = "545929498.375863"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAD_App.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MAD_App.ViewController"
+                  moduleName = "MAD App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasmillard/Documents/MAD%20App/MAD%20App/ViewController.swift"
+                  timestampString = "545929498.383628"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAD_App.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;MAD_App.ViewController&gt;"
+                  moduleName = "MAD App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasmillard/Documents/MAD%20App/MAD%20App/ViewController.swift"
+                  timestampString = "545929498.3922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAD_App.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;MAD_App.ViewController&gt;"
+                  moduleName = "MAD App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasmillard/Documents/MAD%20App/MAD%20App/ViewController.swift"
+                  timestampString = "545929498.400088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MAD App/ViewController.swift"
+            timestampString = "545956112.654973"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

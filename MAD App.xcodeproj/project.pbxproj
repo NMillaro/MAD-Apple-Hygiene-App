@@ -14,6 +14,12 @@
 		A712E740207C0781009EB203 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A712E73E207C0781009EB203 /* LaunchScreen.storyboard */; };
 		A712E74B207C0781009EB203 /* MAD_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A712E74A207C0781009EB203 /* MAD_AppTests.swift */; };
 		A712E756207C0781009EB203 /* MAD_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A712E755207C0781009EB203 /* MAD_AppUITests.swift */; };
+		A75F679C208A939000DA9E00 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A75F679B208A939000DA9E00 /* SearchViewController.swift */; };
+		A75F679E208A9A4300DA9E00 /* CustomPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A75F679D208A9A4300DA9E00 /* CustomPin.swift */; };
+		A7676A5E2089540200DA1838 /* business.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7676A5D2089540200DA1838 /* business.swift */; };
+		A7676A602089759100DA1838 /* BusinessDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7676A5F2089759100DA1838 /* BusinessDetailsViewController.swift */; };
+		A7872EFC208A348000A777F9 /* MyBusinessTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7872EFB208A348000A777F9 /* MyBusinessTableViewCell.swift */; };
+		A7872F30208A6C8700A777F9 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7872F2F208A6C8700A777F9 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		A712E751207C0781009EB203 /* MAD AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAD AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A712E755207C0781009EB203 /* MAD_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAD_AppUITests.swift; sourceTree = "<group>"; };
 		A712E757207C0781009EB203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A75F679B208A939000DA9E00 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		A75F679D208A9A4300DA9E00 /* CustomPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPin.swift; sourceTree = "<group>"; };
+		A7676A5D2089540200DA1838 /* business.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = business.swift; sourceTree = "<group>"; };
+		A7676A5F2089759100DA1838 /* BusinessDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessDetailsViewController.swift; sourceTree = "<group>"; };
+		A7872EFB208A348000A777F9 /* MyBusinessTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBusinessTableViewCell.swift; sourceTree = "<group>"; };
+		A7872F2F208A6C8700A777F9 /* MapViewController.swift */ = {isa = PBXFileReference; indentWidth = 5; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +112,13 @@
 				A712E735207C0781009EB203 /* AppDelegate.swift */,
 				A712E737207C0781009EB203 /* ViewController.swift */,
 				A712E739207C0781009EB203 /* Main.storyboard */,
+				A75F679B208A939000DA9E00 /* SearchViewController.swift */,
+				A7872EFB208A348000A777F9 /* MyBusinessTableViewCell.swift */,
+				A7676A5F2089759100DA1838 /* BusinessDetailsViewController.swift */,
+				A7872F2F208A6C8700A777F9 /* MapViewController.swift */,
+				A7676A5D2089540200DA1838 /* business.swift */,
 				A712E73C207C0781009EB203 /* Assets.xcassets */,
+				A75F679D208A9A4300DA9E00 /* CustomPin.swift */,
 				A712E73E207C0781009EB203 /* LaunchScreen.storyboard */,
 				A712E741207C0781009EB203 /* Info.plist */,
 			);
@@ -260,7 +278,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				A712E738207C0781009EB203 /* ViewController.swift in Sources */,
+				A75F679C208A939000DA9E00 /* SearchViewController.swift in Sources */,
+				A7872F30208A6C8700A777F9 /* MapViewController.swift in Sources */,
+				A7872EFC208A348000A777F9 /* MyBusinessTableViewCell.swift in Sources */,
+				A75F679E208A9A4300DA9E00 /* CustomPin.swift in Sources */,
 				A712E736207C0781009EB203 /* AppDelegate.swift in Sources */,
+				A7676A5E2089540200DA1838 /* business.swift in Sources */,
+				A7676A602089759100DA1838 /* BusinessDetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
